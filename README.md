@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing | Devops | .NET framework**
 
-- ⚡  **Turning caffeine into code, one cup at a time ☕🚀**
+- ⚡  **Turning caffeine into code, one cup at a one time ☕🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
