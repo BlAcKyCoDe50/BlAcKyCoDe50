@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Vishvajeet Singh Chouhan</h1>
-<h3 align="center">3rd Year Cloud Computing Enthusiast | DevOps Learner</h3>
+<h3 align="center">3rd Year aspiring Software Developer | Cloud Computing Enthusiast | DevOps Learner</h3>
 
 
 
