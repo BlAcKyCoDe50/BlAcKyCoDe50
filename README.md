@@ -35,9 +35,16 @@
 
 ![](https://komarev.com/ghpvc/?username=BlAcKyCoDe50&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackycode50&show_icons=true&locale=en&layout=compact" alt="blackycode50" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackycode50&show_icons=true&locale=en" alt="blackycode50" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackycode50&" alt="blackycode50" /></p>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="CakeCrusher :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=blackycode50&show_icons=true&theme=dark"> </td>
+       <td><img alt="CakeCrusher :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackycode50&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
 
