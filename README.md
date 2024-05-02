@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vishwajeet singh chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwajeet singh chouhan" height="30" width="40" /></a>
   
-[![](https://visitcount.itsvg.in/api?id=BlAcKyCoDe50&icon=1&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/BlAcKyCoDe50/count.svg)
 </p>
 
 
