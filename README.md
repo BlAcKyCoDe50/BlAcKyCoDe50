@@ -1,7 +1,9 @@
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlAcKyCoDe50&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BlAcKyCoDe50&column=8"/>
+  </a>
 </div>
+<br/>
 
 <h1 align="center">Hi 👋, I'm Vishvajeet Singh Chouhan</h1>
 <h3 align="center">Aspiring Software Developer | Cloud Computing Enthusiast | DevOps Learner</h3>
