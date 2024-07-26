@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on **Wifi-Automation Project**
+- 🔭 Major project  **Wifi-Automation Project** **[Link](https://github.com/BlAcKyCoDe50/Wifi_Automation)**
 
 - 🌱 I’m currently learning **Cloud Computing | Devops | .NET framework**
 
